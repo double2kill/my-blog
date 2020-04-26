@@ -1,21 +1,6 @@
-# vuepress-theme-reco-demo
+# Double2kill blog
 
-Blog demo for vuepress-theme-reco
-
-## Experience
-
-**npx**
-
-```
-npx @vuepress-reco/theme-cli init my-blog
-```
-
-**npm**
-
-```bash
-# init
-npm install @vuepress-reco/theme-cli -g
-theme-cli init my-blog
+double2kill blog built by vuepress-theme-reco
 
 # install
 cd my-blog
@@ -26,22 +11,4 @@ npm run dev
 
 # build
 npm run build
-```
-
-**yarn**
-
-```bash
-# init
-yarn global add @vuepress-reco/theme-cli
-theme-cli init my-blog
-
-# install
-cd my-blog
-yarn install
-
-# run
-yarn dev
-
-# build
-yarn build
 ```
