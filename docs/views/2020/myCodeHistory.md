@@ -37,10 +37,14 @@ categories:
 <center>小兵必须死</center>
 
 ## 2016 年
-进入了航空航天专业，虽然家人和导师都要求着要继续从事本专业，但是依然对编程有很高的热情，为了找工作，开始看起了视频，学习前端，跟着scott 开始学习 nodejs和前端，成功搭建起一个像样的服务，也因此为实验室开发了一个完整功能的报账系统，包含增删改查和登录等功能。
+进入了航空航天专业，虽然家人和导师都要求着要继续从事本专业，但是依然对编程有很高的热情，为了找工作，开始看起了视频，学习前端，跟着scott 开始学习 nodejs和前端，成功搭建起一个像样的服务。
 
+* 为实验室开发了一个完整功能的报账系统 - [为348服务的表单](https://github.com/double2kill/baozhang)
 * 接触到vue库, 并用vue库搭建了一个[markdown编辑器](https://github.com/double2kill/resume)，并借此去当做实习简历，虽然最后失败了。
 * 去参加飞鱼科技的宣讲会，宣讲会上玩了一步两步游戏，后来自己也做了一个网页版的[一步两步](https://github.com/double2kill/tengxun/tree/master/public/yibuliangbu)
+
+![为348服务的表单](./baozhang.jpg)
+<center>为348服务的表单</center>
 
 ![markdown编辑器](./markdown.png)
 <center>markdown编辑器</center>
