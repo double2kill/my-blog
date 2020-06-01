@@ -1,6 +1,6 @@
 module.exports = {
   "title": "double2kill",
-  "description": "",
+  "description": "去尝试，去拥有",
   "dest": "public",
   "head": [
     [
@@ -36,35 +36,10 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "NPM",
-            "link": "https://www.npmjs.com/~reco_luan",
-            "icon": "reco-npm"
-          },
-          {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/double2kill",
             "icon": "reco-github"
           },
-          {
-            "text": "简书",
-            "link": "https://www.jianshu.com/u/cd674a19515e",
-            "icon": "reco-jianshu"
-          },
-          {
-            "text": "CSDN",
-            "link": "https://blog.csdn.net/recoluan",
-            "icon": "reco-csdn"
-          },
-          {
-            "text": "博客圆",
-            "link": "https://www.cnblogs.com/luanhewei/",
-            "icon": "reco-bokeyuan"
-          },
-          {
-            "text": "WeChat",
-            "link": "https://mp.weixin.qq.com/s/mXFqeUTegdvPliXknAAG_A",
-            "icon": "reco-wechat"
-          }
         ]
       }
     ],
@@ -82,9 +57,9 @@ module.exports = {
     "friendLink": [
       {
         "title": "Greatwebtech",
-        "desc": "Enjoy when you can, and endure when you must.",
+        "desc": "好好学习，天天向上.",
         "email": "379563000@qq.com",
-        "link": "https://www.greatwebtech.com"
+        "link": "http://www.greatwebtech.cn"
       }
     ],
     "logo": "/logo.png",
@@ -94,7 +69,6 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "double2kill",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
     "startYear": "2016"
   },
   "markdown": {
